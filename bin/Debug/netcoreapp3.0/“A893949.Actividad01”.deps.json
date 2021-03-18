@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "“A893949.Actividad01”/1.0.0": {
+        "runtime": {
+          "“A893949.Actividad01”.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "“A893949.Actividad01”/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
